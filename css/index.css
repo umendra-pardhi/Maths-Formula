@@ -1,0 +1,63 @@
+body{
+  margin: 0px;
+  font-family: sans-serif;
+}
+.header{
+  background: rgb(2,0,0);
+  padding: 1px;
+  box-shadow: 0px 0px 5px black;
+  margin-bottom: 20px;
+  text-align: center;
+  position: fixed;
+  width:100%;
+  top:0px;
+}
+.header h3{
+  color: rgb(255,255,255);
+}
+
+#li{
+  text-align: center;
+  margin-top: 90px;
+  
+  
+}
+#li a{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  background: white;
+  border-radius: 10px;
+  width:70%;
+  box-shadow: 0px 0px  5px black;
+  
+}
+p{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+
+.share{
+  position:fixed;
+  bottom: 20%;
+  right: 5px;
+  padding: 5px;
+  /*background:red;*/
+  border-radius: 100% ;
+  box-shadow: 1px 1px 5px black;
+  text-align: center;
+  width: 35px;
+  height:35px;
+}
+/*.share img{
+  width: 35px;
+  height:35px;
+  border-radius: 100%;
+  margin:0px;
+}*/
+/*developer: Umendra pardhi*/
+
+
